@@ -4,4 +4,4 @@ This notebook shows how you can you use large language models to learn about vir
 
 <br/>
 
-The notebook can be found [here.]([scholar_me_up.ipynb])
+The notebook can be found [here.]([[scholar_me_up.ipynb](https://github.com/jcarterlab/Scholar-Me-Up/blob/main/scholar_me_up.ipynb)https://github.com/jcarterlab/Scholar-Me-Up/blob/main/scholar_me_up.ipynb])
